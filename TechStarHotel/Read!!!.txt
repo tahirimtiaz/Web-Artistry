@@ -1,0 +1,20 @@
+Project: [TechStarHotel]
+
+===========================
+
+NOTICE: This project is the intellectual property of 'Tahir Imtiaz' and is protected by copyright laws. By accessing and using the code in this repository, you agree to the following terms:
+
+1. You may use this code solely for educational and non-commercial purposes, to understand the concepts and implementation of the project.
+
+2. You may not use this code, in part or in whole, for any commercial or for-profit projects without obtaining expliciting permission
+
+3. You may not claim this project or any derived work as your own.
+
+4. You are allowed to fork this repository and submit pull requests to contribute improvements or fixes.
+
+5. Any contributions you make to this project will be subject to the same terms mentioned herein.
+
+
+For any questions or inquiries regarding the use of this code for commercial purposes or obtaining permission for other uses, please contact [Your Email Address].
+
+Thank you for respecting the terms and happy coding!
