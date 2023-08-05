@@ -9,4 +9,3 @@ Features:
 Feel free to explore the code and use it as a reference for your own projects. Please note that commercial use of this project is not allowed.
 
 
-https://tahirimtiaz.github.io/Web-Artistry/
